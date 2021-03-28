@@ -1,2 +1,2 @@
-# Huawei Ultrapassa Xiaomi / Data Science
+# Huawei Ultrapassa Xiaomi Data Science
  
